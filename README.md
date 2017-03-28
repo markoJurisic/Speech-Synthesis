@@ -1,2 +1,2 @@
 # Speech-Synthesis
-Speech Synthesis API - write a message and choose language for screen reader
+Speech Synthesis API - write a message and choose a language (and accent) for a screen-reader-like voice.
